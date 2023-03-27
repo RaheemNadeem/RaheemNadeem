@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Raheem</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate frontend developer from USA.</h3>
 
 - 🔭 I’m currently working on [Abdul-portfolio](https://abdulportfolio.onrender.com/)
 
